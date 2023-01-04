@@ -99,8 +99,9 @@ a.logo {
     padding-top: 5px 10px;
 }
 
-.language ul li:hover {
-    background-color: #f8f8f8;
+.language ul li a:hover {
+    color: #f8f8f8;
+    background-color: #FF5A00;
 }
 
 .language ul li a:before {
